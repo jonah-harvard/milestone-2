@@ -1,0 +1,17 @@
+---
+title: "Milestone 2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I am looking at [Whom Does the Electoral College Benefit?](https://dominic-skinnion.shinyapps.io/electoral_college/) by Dominic Skinnion, and [Gothic Literature and Monstrosity](https://margaret-butler.shinyapps.io/gothicproject/) by Margaret Butler.
+
+# Whom Does the Electoral College Benefit?
+I really liked this page. Dominic presented the findings in a mostly clear, way, and the analysis followed a logical progression that made it relatively easy to follow. One thing I noticed immediately, however, is that the theming for Domonic's website is a little rough. Perfectly readable, but not the most aesthetically pleasing (at least to me). The other thing is that the graphs were so big and centrally placed, that it was hard to read what the graph was showing, while refering to the graph at the same time. They also made the page seem a little empty, because of the white background and large gaps that the size of the graphs created. I liked Dominic's second page the most: it was the easiest to see what was going on (all the information was on one page, the graph was smaller, I felt like Dominic achieved a real density of information without making things cluttered). My least favorite page was "Effect of the EC", as I felt that it went back to the design principles I didn't love, and the graphs weren't painting as clear a picture. It could have used some more description to walk the reader through how to interpret these graphs. 
+
+# Gothic Literature and Monstrosity
+I really liked the theming of this page. The text was easy to read, and it looked modern and professional. The topic was also very interesting. Margaret put all of the information on one page, meaning that I didn't have to scroll around, and my attention was better focused on what she wanted me to see. The graphs she presented on the second page were immediately clear and easy to read (not to mention very interesting). I thought it would have been neat if she had scaled the color values of her bars by the magnitude of their sentiment score (but maybe that would have made it harder to read). I would have liked to see more explanation in Margaret's second page. While the data she presents looks believable, she did not make fully clear the process she used to generate that data. "comparing the overall positive versus negative words over roughly 100 lines" makes sense, but how was she defining those categories? Otherwise, I thought the dataset she created was very interesting. The other thing that isn't quite clear in her work is how the idea of monstrosity comes in. She does say that it was more central to her original idea, and that she later shifted away from that, but remnants of that focus remain (the name of the project for example), which I found confusing. The third page was very interesting and fun to play around with. The data was presented legibly, but maybe could have been a bit taller. It is not fully clear to me what her last page is or how it differs from the one before it.
+
